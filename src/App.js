@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Nginx React
+          Hello EB Docker React
         </a>
       </header>
     </div>
